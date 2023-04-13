@@ -1,2 +1,2 @@
 # Kaggle-Titanic
-Submission for Kaggle's Competition Titanic - Learning from disaster
+Submission for Kaggle's Competition Titanic - Machine Learning from disaster
